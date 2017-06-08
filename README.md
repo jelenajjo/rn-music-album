@@ -9,6 +9,6 @@ npm start
 ```
 
 
-##VOILA!
+## VOILA!
 
 Now just scan the code and check the app
