@@ -7,3 +7,8 @@ npm install
 
 npm start
 ```
+
+
+##VOILA!
+
+Now just scan the code and check the app
